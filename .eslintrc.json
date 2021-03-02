@@ -26,6 +26,7 @@
         "react/jsx-filename-extension": [2, { "extensions": [".js", ".jsx", ".ts", ".tsx"] }],
         "react/react-in-jsx-scope": "off",
         "react/button-has-type": "off",
-        "max-len": "off"
+        "max-len": "off",
+        "no-restricted-properties": 0
     }
 }
