@@ -27,6 +27,7 @@
         "react/react-in-jsx-scope": "off",
         "react/button-has-type": "off",
         "max-len": "off",
-        "no-restricted-properties": 0
+        "no-restricted-properties": 0,
+        "no-new": "off"
     }
 }
