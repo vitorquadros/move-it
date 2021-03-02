@@ -25,6 +25,7 @@
         "no-console": "off",
         "react/jsx-filename-extension": [2, { "extensions": [".js", ".jsx", ".ts", ".tsx"] }],
         "react/react-in-jsx-scope": "off",
-        "react/button-has-type": "off"
+        "react/button-has-type": "off",
+        "max-len": "off"
     }
 }
