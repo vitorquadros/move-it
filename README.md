@@ -4,7 +4,7 @@
     <p align="center">
       <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
       <a href="#-links-do-projeto">Links</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-      <a href="#-teste">Teste</a>
+      <a href="#%EF%B8%8F-teste">Teste</a>
   </p>
 
 </h3>
