@@ -1,34 +1,54 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h3 align="center">
+    <h1 align="center">Trilha ReactJS</h1>
+    <br><br>
+    <p align="center">
+      <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      <a href="#-links-do-projeto">Links</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      <a href="#-teste">Teste</a>
+  </p>
 
-## Getting Started
+</h3>
+<p align="center">
+  <a href="https://rocketseat.com.br">
+    <img src="https://i.imgur.com/1o7urkT.png">
+  </a>
+</p>
 
-First, run the development server:
+## 🔖 Sobre
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+O <strong>move-it</strong> é uma aplicação para ajudar você a evitar o estresse nos estudos ou trabalho, fazendo uma pausa para relaxar o corpo com exercicios físicos.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Aplicação web construída na trilha <strong>ReactJS</strong> da <strong>Next Level Week</strong> distribuída pela [Rocketseat](https://rocketseat.com.br/).
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## 🚀 Tecnologias
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- ReactJS
+- NextJS
+- Yarn
 
-## Learn More
+## 🔗 Links do projeto
 
-To learn more about Next.js, take a look at the following resources:
+### Notion
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [Ambiente](https://www.notion.so/Configura-es-do-ambiente-Node-js-ae9fea3f78894139af4268d198294e2a)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Resources
 
-## Deploy on Vercel
+- [Ícones e Wallpapers](https://drive.google.com/drive/folders/11fxy_LmTD6S1FGTQbeu47QPLzvyuEGSs)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🎓 Quem ministrou?
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+As aulas foram ministradas pelo **[Diego Fernandes](https://github.com/diego3g)** na **Next Level Week 04**.
+
+## ⚙️ Teste
+
+A aplicação pode ser testada [aqui](move-it-git-master-vitorquadros.vercel.app)
+ou localmente clonando o projeto e instalando as dependencias com <strong>yarn install</strong>.
+
+---
+
+<h4 align="center">
+    Feito com 💜 by <a href="https://github.com/VitorQuadros" target="_blank">Vitor Quadros</a>
+</h4>
