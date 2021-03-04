@@ -30,10 +30,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🔗 Links do projeto
 
-### Notion
-
-- [Ambiente](https://www.notion.so/Configura-es-do-ambiente-Node-js-ae9fea3f78894139af4268d198294e2a)
-
 ### Resources
 
 - [Ícones e Wallpapers](https://drive.google.com/drive/folders/11fxy_LmTD6S1FGTQbeu47QPLzvyuEGSs)
@@ -44,7 +40,7 @@ As aulas foram ministradas pelo **[Diego Fernandes](https://github.com/diego3g)*
 
 ## ⚙️ Teste
 
-A aplicação pode ser testada [aqui](move-it-git-master-vitorquadros.vercel.app)
+A aplicação pode ser testada [aqui](http://move-it-git-master-vitorquadros.vercel.app/)
 ou localmente clonando o projeto e instalando as dependencias com <strong>yarn install</strong>.
 
 ---
